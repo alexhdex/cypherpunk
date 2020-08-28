@@ -1,0 +1,55 @@
+[33mcommit 8f8ee70870dab81bbd9f50142f7560c0a556cffc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alex Hdez <alejandrohdez@gmail.com>
+Date:   Fri Aug 28 14:59:53 2020 -0500
+
+    Commit al master del blogpost reciente
+
+ blogpost.html   | 10 [32m++++++++[m[31m--[m
+ css/estilos.css | 22 [32m+++++++++++++++++++[m[31m---[m
+ 2 files changed, 27 insertions(+), 5 deletions(-)
+
+[33mcommit 0fd4c848784f1af54a87de6840d9aa801cefe669[m
+Author: Alex Hdez <alejandrohdez@gmail.com>
+Date:   Fri Aug 28 13:55:31 2020 -0500
+
+    Una nueva peli
+
+ inicial.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 6d44f42bf99f0c85d540e2db1d4cdd838611cfc8[m
+Author: Alex Hdez <alejandrohdez@gmail.com>
+Date:   Fri Aug 28 13:54:55 2020 -0500
+
+    Las mejores series
+
+ inicial.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 084f378046749b14afbe9a3134775c11d81eec3b[m
+Author: Alex Hdez <alejandrohdez@gmail.com>
+Date:   Fri Aug 28 13:52:37 2020 -0500
+
+    Arranco mi proyecto con HTML y CSS
+
+ blogpost.html   | 11 [32m+++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 17 insertions(+)
+
+[33mcommit e3ff8d53e44a7834d69c98ed67f4261909106005[m
+Author: Alex Hdez <alejandrohdez@gmail.com>
+Date:   Thu Aug 27 18:21:56 2020 -0500
+
+    cambios al archivo inicial
+
+ inicial.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit f74941ce0985fb74ae0b48a0ac878ad0d0c9ae21[m
+Author: Alex Hdez <alejandrohdez@gmail.com>
+Date:   Thu Aug 27 18:15:47 2020 -0500
+
+    Este el el primer commit
+
+ inicial.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
